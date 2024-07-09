@@ -9,6 +9,9 @@
 4. Paco Ramos Aaron Pedro
 5. Salinas Condori, Erick Javier
 
+**Video:** https://youtu.be/gK0e9JMlmz8
+
+
 ## Introducción
 - **Propósito**: Desarrollar un sistema automatizado que facilite la carga, almacenamiento y modificación de datos en archivos CSV, así como la generación y actualización de reportes en un almacén de datos.
 - **Alcance**: Incluye el desarrollo de un sistema de automatización de carga de datos, modificación de reportes, capacitación de usuarios, pruebas y validación del sistema.
