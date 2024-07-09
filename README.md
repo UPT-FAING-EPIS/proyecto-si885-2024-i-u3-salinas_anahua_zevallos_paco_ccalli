@@ -17,7 +17,7 @@
 - **Alcance**: Incluye el desarrollo de un sistema de automatización de carga de datos, modificación de reportes, capacitación de usuarios, pruebas y validación del sistema.
 
 ## Generalidades de la Empresa
-- **Nombre de la Empresa**: AOE-System
+- **Nombre de la Empresa**: "Hospital Regional Hipolito Unanue TACNA"
 - **Visión**: Definir y establecer un sistema eficiente y automatizado para la carga de datos, optimizando los procesos de almacenamiento y reporte en la organización.
 - **Misión**: Implementar una solución de automatización de carga de datos y modificar los reportes existentes para mejorar la precisión, eficiencia y accesibilidad de la información almacenada.
 
